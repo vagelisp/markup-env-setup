@@ -1,0 +1,23 @@
+{
+  "name": "markup-dev-setup",
+  "version": "1.0.0",
+  "description": "Just a gulp setup",
+  "main": "index.html",
+  "author": "Vagelis Papaioannou",
+  "license": "GPL2",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-terser": "^1.2.0",
+    "gulp-imagemin": "^7.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "gulp-purgecss": "^1.2.0"
+  }
+}
