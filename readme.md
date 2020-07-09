@@ -1,6 +1,6 @@
 # Gulp setup for local HTML/CSS
 
-Just a gulp script to take care of all the optiomization and server the files.
+Just a gulp script to take care of all the optimisation and serve the files.
 
 ## Features
 * SASS
